@@ -43,7 +43,7 @@ A game inspired by the popular mines game from the Stake casino. In this version
 
 ## Let's connect!
 
-- **Email:** [Mrinaldi2204@gmail.com](Mrinaldi2204@gmail.com)
+- **Email:** [Mrinaldi2204@gmail.com](mailto:Mrinaldi2204@gmail.com)
 
 ---
 
