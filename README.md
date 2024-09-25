@@ -1,50 +1,20 @@
-# Hey! I'm Maximiliano Rinaldi 🙋‍♂️
+<h1 align="center">Hi 👋, I'm Maximiliano Rinaldi</h1>
+<h3 align="center">🚀 Frontend Developer in progress | From Uruguay 🇺🇾</h3>
 
-### 🚀 Frontend Developer in progress | From Uruguay 🇺🇾
+- 🔭 I’m currently working on **E-commerce**
 
----
+- 🌱 I’m currently learning **React and Tailwind**
 
-## About me
+- 👨‍💻 All of my projects are available at [https://maximiliano-rinaldi.vercel.app/](https://maximiliano-rinaldi.vercel.app/)
 
-I’ve been diving into **frontend development** for **7 months**, learning **HTML**, **CSS**, and **JavaScript**. Currently, I’m focused on **React** and enjoying every bit of the journey. I learn by building, breaking things, and fixing them—Google is my best friend for that 😅.
+- 📫 How to reach me **mrinadli2204@gmial.com**
 
-Oh, and I also hold an **FCE diploma** from **Anglia**, so feel free to reach out in English or Spanish!
+- ⚡ More info **Oh, and I also hold an FCE diploma from Anglia, so feel free to reach out in English or Spanish!**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maximiliano rinaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano rinaldi" height="30" width="40" /></a>
+</p>
 
-## What I work with:
-
-- **HTML & CSS**: Crafting responsive and clean designs
-- **Tailwind**: Streamlining styling with utility-first framework
-- **JavaScript & React**: Adding life to web applications
-- **Git & GitHub**: Version control and collaboration
-
----
-
-## Projects:
-
-### 🎨 [Currency Conversion](https://github.com/MaxiRinaldi22/CurrencyConvertor)
-
-A React app that converts the currencies of the main countries using an API to have the currencies in real time.
-
-### 📝 [Lucky Mines](https://github.com/MaxiRinaldi22/lucky-mines)
-
-A game inspired by the popular mines game from the Stake casino. In this version, players must uncover tiles without hitting a mine to win.
-
----
-
-## Goals:
-
-- Keep improving my React skills.
-- Build bigger and better projects.
-- Collaborate with others and contribute to open-source.
-
----
-
-## Let's connect!
-
-- **Email:** [Mrinaldi2204@gmail.com](mailto:Mrinaldi2204@gmail.com)
-
----
-
-⭐ Feel free to star my projects if you like them! ⭐
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
